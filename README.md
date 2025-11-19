@@ -9,45 +9,74 @@ Experiments are performed on two healthcare datasets:
  COVID-19 Radiography with CNN
 
 🧬 Project Structure:
+
 PFE/
+
 │
+
 ├── 📁 notebooks/
+
 │   ├── 📁 MLP/
+
         ├── DetectionOfAdversarialExamplesMLP.ipynb
+        
         ├── HybridationMLP.ipynb
+        
         ├── Random_noise_injectionMLP.ipynb
+        
         ├── adversarialTrainingMLP.ipynb
+        
         ├── baselineMLP.ipynb
+        
         └── defensifDistillationMLP.ipynb      
      
 │   ├── 📁 CNN/
+
         ├── baselineCNN.ipynb
+        
         ├── detection of adversarial training.ipynb
+        
         ├── distillation defensif.ipynb
+        
         ├── hybridation1_CNN_(resultat1).ipynb
+        
         ├── hybridation1_CNN_(resultat2).ipynb
+        
         ├── mixing_adversarial_training.ipynb
+        
 │       └── random_noise_injection.ipynb
+
 │
+
 ├── 📁 data/              # (Not included due to size limits)
+
 │   └── README
+
 │
+
 ├── 📁 report/
+
 │   └── PFE_Report.pdf
+
 │
+
 └── README.md
 
 ⚙️ Installation:
+
 All required dependencies are already installed directly inside the notebooks.  
 No additional installation steps are needed.
 
 🚀 How to Run:
+
 You can run the notebooks in any Python environment.  
 They were originally executed in Google Colab, but they also work locally.
 
 🗂️ Datasets:
+
 Breast Cancer Wisconsin (WDBC)
 COVID-19 Radiography
 
 👤 Author:
+
 ELBAHLOULI Oumaima – Master Data Science and Bioinformatics
