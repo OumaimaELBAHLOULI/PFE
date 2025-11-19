@@ -18,33 +18,33 @@ PFE/
 
 │   ├── 📁 MLP/
 
-        ├── DetectionOfAdversarialExamplesMLP.ipynb
+│       ├── DetectionOfAdversarialExamplesMLP.ipynb
         
-        ├── HybridationMLP.ipynb
+│        ├── HybridationMLP.ipynb
         
-        ├── Random_noise_injectionMLP.ipynb
+│        ├── Random_noise_injectionMLP.ipynb
         
-        ├── adversarialTrainingMLP.ipynb
+│        ├── adversarialTrainingMLP.ipynb
         
-        ├── baselineMLP.ipynb
+│        ├── baselineMLP.ipynb
         
-        └── defensifDistillationMLP.ipynb      
+│        └── defensifDistillationMLP.ipynb      
      
 │   ├── 📁 CNN/
 
-        ├── baselineCNN.ipynb
+│        ├── baselineCNN.ipynb
         
-        ├── detection of adversarial training.ipynb
+│        ├── detection of adversarial training.ipynb
         
-        ├── distillation defensif.ipynb
+│        ├── distillation defensif.ipynb
         
-        ├── hybridation1_CNN_(resultat1).ipynb
+│        ├── hybridation1_CNN_(resultat1).ipynb
         
-        ├── hybridation1_CNN_(resultat2).ipynb
+│        ├── hybridation1_CNN_(resultat2).ipynb
         
-        ├── mixing_adversarial_training.ipynb
+│        ├── mixing_adversarial_training.ipynb
         
-        └── random_noise_injection.ipynb
+│        └── random_noise_injection.ipynb
 
 │
 
