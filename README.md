@@ -21,32 +21,58 @@ We evaluate multiple defense strategies including:
 
 ## 🧬 Project Structure
 
-PFE/<br>
-│<br>
-├── 📁 notebooks/<br>
-│   ├── 📁 MLP/<br>
-│   │   ├── baselineMLP.ipynb<br>
-│   │   ├── adversarialTrainingMLP.ipynb<br>
-│   │   ├── defensifDistillationMLP.ipynb<br>
-│   │   ├── Random_noise_injectionMLP.ipynb<br>
-│   │   ├── DetectionOfAdversarialExamplesMLP.ipynb<br>
-│   │   └── HybridationMLP.ipynb<br>
-│   │<br>
-│   └── 📁 CNN/<br>
-│       ├── baselineCNN.ipynb<br>
-│       ├── mixing_adversarial_training.ipynb<br>
-│       ├── distillation_defensif.ipynb<br>
-│       ├── random_noise_injection.ipynb<br>
-│       ├── detection_of_adversarial_training.ipynb<br>
-│       ├── hybridation1_CNN_(resultat1).ipynb<br>
-│       └── hybridation1_CNN_(resultat2).ipynb<br>
-│<br>
-├── 📁 data/                    # Not included due to size limits<br>
-│   └── README.md<br>
-│<br>
-├── 📁 report/<br>
-│   └── PFE_Report.pdf<br>
-│<br>
+PFE/
+
+│
+
+├── 📁 notebooks/
+
+│   ├── 📁 MLP/
+
+│   │   ├── baselineMLP.ipynb
+
+│   │   ├── adversarialTrainingMLP.ipynb
+
+│   │   ├── defensifDistillationMLP.ipynb
+
+│   │   ├── Random_noise_injectionMLP.ipynb
+
+│   │   ├── DetectionOfAdversarialExamplesMLP.ipynb
+
+│   │   └── HybridationMLP.ipynb
+
+│   │
+
+│   └── 📁 CNN/
+
+│       ├── baselineCNN.ipynb
+
+│       ├── mixing_adversarial_training.ipynb
+
+│       ├── distillation_defensif.ipynb
+
+│       ├── random_noise_injection.ipynb
+
+│       ├── detection_of_adversarial_training.ipynb
+
+│       ├── hybridation1_CNN_(resultat1).ipynb
+
+│       └── hybridation1_CNN_(resultat2).ipynb
+
+│
+
+├── 📁 data/                    # Not included due to size limits
+
+│   └── README.md
+
+│
+
+├── 📁 report/
+
+│   └── PFE_Report.pdf
+
+│
+
 └── README.md
 ---
 
