@@ -28,7 +28,7 @@ PFE/
 │ │ ├── baselineMLP.ipynb
 │ │ ├── adversarialTrainingMLP.ipynb
 │ │ ├── defensifDistillationMLP.ipynb
-│ │ ├── Random*noise_injectionMLP.ipynb
+│ │ ├── Random_noise_injectionMLP.ipynb
 │ │ ├── DetectionOfAdversarialExamplesMLP.ipynb
 │ │ └── HybridationMLP.ipynb
 │ │
@@ -38,8 +38,8 @@ PFE/
 │ ├── distillation_defensif.ipynb
 │ ├── random_noise_injection.ipynb
 │ ├── detection_of_adversarial_training.ipynb
-│ ├── hybridation1_CNN*(resultat1).ipynb
-│ └── hybridation1*CNN*(resultat2).ipynb
+│ ├── hybridation1_CNN_(resultat1).ipynb
+│ └── hybridation1_CNN_(resultat2).ipynb
 │
 ├── 📁 data/ # Not included due to size limits
 │ └── README.md
@@ -48,7 +48,6 @@ PFE/
 │ └── PFE_Report.pdf
 │
 └── README.md
-
 ---
 
 ## ⚙️ Installation
