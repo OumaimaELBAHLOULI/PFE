@@ -82,9 +82,11 @@ All required dependencies are already installed inside the notebooks.
 No additional installation steps are needed.
 
 ---
+⚠️ **Note**: Notebooks display a rendering error on GitHub but work perfectly locally or on Google Colab. Please download them to run.
 
+---
 ## 🚀 How to Run
-
+Les notebooks affichent une erreur de rendu sur GitHub mais fonctionnent parfaitement en local ou sur Google Colab.
 You can run the notebooks in any Python environment.  
 They were originally executed in Google Colab, but they also work locally.
 
